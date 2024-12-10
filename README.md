@@ -23,7 +23,7 @@ This project demonstrates the use of caching techniques in an ASP.NET Core Web A
 
 ## Prerequisites
 
-- .NET 8.0 SDK or higher
+- .NET 6.0 SDK or higher
 - PostgreSQL database
 - IDE or text editor like Visual Studio, VS Code, or JetBrains Rider
 
